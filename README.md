@@ -44,7 +44,7 @@ Additional setup:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/[your-username]/[your-repo-name].git
+   git clone https://github.com/hbk008/LLM-Tutorial.git
    ```
 2. Install dependencies (see above).
 3. Download Synthea data and update the file path in the notebook (`data_path` variable in Step 1).
